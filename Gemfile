@@ -33,7 +33,7 @@ gem 'cancancan'
 
 gem "wysiwyg-rails"
 gem 'icheck-rails'
-gem 'rails_admin_rollincode', :git => 'https://github.com/rmhulle/rails_admin_theme.git'
+gem 'rails_admin_rollincode', '~> 1.1'
 gem 'rails_admin'
 gem "rails_admin_import", "~> 1.4"
 

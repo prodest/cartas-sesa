@@ -8,7 +8,7 @@
 /.bundle
 
 .env
-
+vendor/
 
 # Ignore all logfiles and tempfiles.
 /log/*
@@ -18,7 +18,6 @@
 
 /config/database.yml
 /config/secrets.yml
-/config/mongoid.yml
 
 
 *.rbc
